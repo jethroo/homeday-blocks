@@ -46,8 +46,9 @@
     "vue-zoomer": "homeday-de/vue-zoomer#0.5.0"
   },
   "devDependencies": {
-    "@percy/storybook": "3.3.1",
-    "@storybook/addon-actions": "6.0.12",
+    "@babel/helper-compilation-targets": "^7.10.4",
+    "@percy/storybook": "3.2.0",
+    "@storybook/addon-actions": "5.2.8",
     "@storybook/addon-console": "1.2.1",
     "@storybook/addon-essentials": "6.0.12",
     "@storybook/addon-knobs": "6.0.12",
